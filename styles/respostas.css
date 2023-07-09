@@ -1,0 +1,11 @@
+.resultado
+{   
+    width: 400px;
+    font-size: 32px;
+    border: white 1px solid;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
